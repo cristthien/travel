@@ -1,0 +1,7 @@
+- mongodb, nodejs, express
+- cors: allow connection from multiple domains
+  https://www.npmjs.com/package/cors
+- nodemon: run node & real-time update
+  https://www.npmjs.com/package/nodemon
+- dotenv: load variables
+  https://www.npmjs.com/package/dotenv

@@ -1,0 +1,70 @@
+
+.image360{
+    width: 90%;
+}
+.product{
+    width:100%;
+    align-items: stretch;
+    padding-top:70px;
+}
+.productTitle{
+    font-size: 24px;    
+}
+.productContentWapper{
+    flex:4;
+    margin: 12px;
+}
+.productImageWapper{
+    flex:6;
+    margin: 12px;
+    position: relative;
+
+}
+img{
+    width: 100%;
+}
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+.image360 {
+    width: 90%;
+    margin: auto;
+    padding: 80px 0;
+}
+.image360Title{
+    font-size: 32px;
+}
+.commentTitle {
+    font-size: 24px;
+}
+.commentWapper{
+    margin: 20px;
+}
+.commentAuthor{
+ font-size: 20px;
+ margin: 4px 0;
+}
+.commentContent {
+    margin: 6px;
+}
+.commentInput{
+    font-size: 20px;
+    padding: 4px 8px;
+    width: 85%;
+    margin: 4px 8px;
+}
+.inputCommentWapper{
+ margin: 12px 20px; 
+}
+.commentItem {
+    margin: 8px 0;
+    margin-left: 12px;
+    border-radius: 8px;
+    background: #c8c3c3;
+    padding: 2px 12px;
+}

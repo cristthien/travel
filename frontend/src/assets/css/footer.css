@@ -1,0 +1,25 @@
+.footer{
+    background-color:#030303 ;
+    color: white;
+}
+.footer>div{
+    max-width: 40%;
+    padding: 20px 0 20px 2.5%;
+    line-height: 1.5;
+}
+.footer li{
+    list-style-type: none;
+}
+.footer h1{
+    text-align: center;
+}
+.footer>div>div{
+    text-align: center;
+}
+.footer a{
+    color: white;
+}
+.footer i{
+    font-size: 24px;
+    padding: 8px;
+}
